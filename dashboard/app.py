@@ -2,8 +2,6 @@ import streamlit as st
 from sqlalchemy import create_engine
 import pandas as pd
 
-st.write("🔥 THIS IS MY CURRENT APP FILE")
-
 st.title("📊 Job Market Skills Demand & Skill Gap Dashboard")
 st.write(
     "Analyze Data Analyst job-market trends, in-demand skills, "
